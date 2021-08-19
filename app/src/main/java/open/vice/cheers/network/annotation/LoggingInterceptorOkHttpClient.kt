@@ -1,0 +1,3 @@
+package open.vice.cheers.network.annotation
+
+annotation class LoggingInterceptorOkHttpClient
