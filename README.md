@@ -1,6 +1,8 @@
 # Cheers 🍻
-Using "punkapi.com" API to retrieve beer information. Using Jetpack Compose for UI.
 
+![alt text](https://github.com/federicoviceconti/Cheers/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png)
+
+Using "punkapi.com" API to retrieve beer information. Using Jetpack Compose for UI.
 The following app use the **MVVM pattern** to handle data flows.
 
 ## Architecture
